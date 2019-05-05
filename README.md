@@ -11,3 +11,5 @@ where file path is the path of the .off triangulated mesh file.
 
 The generated curvatures for each vertex are stored in .npy files.
 Sample .off files are uploaded for trials.
+
+For plotting the plot.py file in the repo https://github.com/Pranav-Jain/Curvatures-of-Triangulated-2-Manifolds can be used. Be careful of the file names it requires.
