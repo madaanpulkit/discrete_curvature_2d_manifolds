@@ -13,4 +13,4 @@ The generated curvatures for each vertex are stored in .npy files.
 Sample OFF files are uploaded for trials in the samples folder.
 
 For now plotting can be done via the plot.py file in the repo https://github.com/Pranav-Jain/Curvatures-of-Triangulated-2-Manifolds can be used. Be careful of the file names it requires.
-In repo plot support coming soon. 
+In-repo plot support coming soon. 
